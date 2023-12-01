@@ -11,22 +11,22 @@ public class Q1 {
 //                System.out.println(array[j]);
 //            }
                                                          // 4 •	Input array elements
-            Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter size of Array:");
-            int size = scanner.nextInt();
-
-            int Array1 [] = new int[size];
-            System.out.println("put elements:");
-            for (int j = 0; j < Array1.length; j++) {
-                Array1[j] = scanner.nextInt();
-            }
-                                                        // extra
-        for (int i = 0; i < Array1.length; i++) {
-            System.out.println(Array1[i]);
-        }
-        PrintArrayElements();
-        InputElements();
-     }
+//            Scanner scanner = new Scanner(System.in);
+//            System.out.println("Enter size of Array:");
+//            int size = scanner.nextInt();
+//
+//            int Array1 [] = new int[size];
+//            System.out.println("put elements:");
+//            for (int j = 0; j < Array1.length; j++) {
+//                Array1[j] = scanner.nextInt();
+//            }
+//                                                        // extra
+//        for (int i = 0; i < Array1.length; i++) {
+//            System.out.println(Array1[i]);
+//        }
+//        PrintArrayElements();
+//        InputElements();
+    }
                                                        // 5 • Define method to print array elements
      public static void PrintArrayElements(){
          int array [] ={1,2,3,4};
