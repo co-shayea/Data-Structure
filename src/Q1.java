@@ -10,7 +10,7 @@ public class Q1 {
 //            for (int j = 0; j < array.length; j++) {
 //                System.out.println(array[j]);
 //            }
-                                                         // 4 •	Input array elements
+//                                                         // 4 •	Input array elements
 //            Scanner scanner = new Scanner(System.in);
 //            System.out.println("Enter size of Array:");
 //            int size = scanner.nextInt();
@@ -24,8 +24,8 @@ public class Q1 {
 //        for (int i = 0; i < Array1.length; i++) {
 //            System.out.println(Array1[i]);
 //        }
-//        PrintArrayElements();
-//        InputElements();
+        PrintArrayElements();
+        InputElements();
     }
                                                        // 5 • Define method to print array elements
      public static void PrintArrayElements(){

@@ -6,4 +6,12 @@ public class Students {
       Id = id;
       this.name = name;
    }
+
+   @Override
+   public String toString() {
+      return "Students{" +
+              "Id=" + Id +
+              ", name='" + name + '\'' +
+              '}';
+   }
 }
